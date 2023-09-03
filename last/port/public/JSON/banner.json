@@ -1,0 +1,22 @@
+[
+    {
+        "id":0,
+        "url":"http://10.218.39.118:3000/public/images/banner/clothing2.png"
+    },
+    {
+        "id":1,
+        "url":"http://10.218.39.118:3000/public/images/banner/planet.png"
+    },
+    {
+        "id":2,
+        "url":"http://10.218.39.118:3000/public/images/banner/clothing.png"
+    },
+    {
+        "id":3,
+        "url":"http://10.218.39.118:3000/public/images/banner/tent.png"
+    },
+    {
+        "id":4,
+        "url":"http://10.218.39.118:3000/public/images/banner/girl.png"
+    }
+]

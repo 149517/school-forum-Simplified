@@ -1,0 +1,22 @@
+[
+    {
+        "mes":"包",
+        "price":"1283",
+        "url":"http://10.218.39.118:3000/public/images/goods/package.jpg"
+    },
+    {
+        "mes":"鞋子",
+        "price":"158",
+        "url":"http://10.218.39.118:3000/public/images/goods/shoe.jpg"
+    },
+    {
+        "mes":"Lolita",
+        "price":"188",
+        "url":"http://10.218.39.118:3000/public/images/goods/skirt.jpg"
+    },
+    {
+        "mes":"口红",
+        "price":"258",
+        "url":"http://10.218.39.118:3000/public/images/goods/lipstick.jpg"
+    }
+]

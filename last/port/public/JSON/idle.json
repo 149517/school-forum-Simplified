@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "url":"http://10.218.39.118:3000/public/images/idle/computer.jpg",
+        "name":"mac 电脑",
+        "price":"2289"
+    },
+    {
+        "id":2,
+        "url":"http://10.218.39.118:3000/public/images/idle/lipstick.jpg",
+        "name":"口红",
+        "price":"128"
+    },
+    {
+        "id":3,
+        "url":"http://10.218.39.118:3000/public/images/idle/package.jpg",
+        "name":"手提包",
+        "price":"1563"
+    },
+    {
+        "id":4,
+        "url":"http://10.218.39.118:3000/public/images/idle/shoe.jpg",
+        "name":"小白鞋",
+        "price":"54"
+    },
+    {
+        "id":5,
+        "url":"http://10.218.39.118:3000/public/images/idle/skirt.jpg",
+        "name":"lolita",
+        "price":"157"
+    }
+]

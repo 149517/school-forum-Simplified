@@ -1,0 +1,26 @@
+[
+    {
+        "id":0,
+        "img":"http://10.218.39.118:3000/public/images/hiking.jpg",
+        "name":"爬山",
+        "num":"3-5"
+    },
+    {
+        "id":1,
+        "img":"http://10.218.39.118:3000/public/images/riding.jpg",
+        "name":"短途骑行",
+        "num":"3-8"
+    },
+    {
+        "id":2,
+        "img":"http://10.218.39.118:3000/public/images/camping.jpg",
+        "name":"露营",
+        "num":"3-6"
+    },
+    {
+        "id":3,
+        "img":"http://10.218.39.118:3000/public/images/running.jpg",
+        "name":"晨跑",
+        "num":"2-4"
+    }
+]

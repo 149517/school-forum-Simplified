@@ -1,0 +1,32 @@
+[
+    {
+        "head":"http://10.218.39.118:3000/public/images/head/1.jpg",
+        "nick":"小小小张",
+        "article":"好看的夕阳",
+        "imgs":["http://10.218.39.118:3000/public/images/discover/sunset.jpg"],
+        "time":"2023-5-19"
+    },
+    {
+        "head":"http://10.218.39.118:3000/public/images/head/2.jpg",
+        "nick":"山楂马蹄糯",
+        "article":"当我两个月没打球…… ",
+        "imgs":["http://10.218.39.118:3000/public/images/discover/racket1.jpg","http://10.218.39.118:3000/public/images/discover/racket2.jpg"],
+        "time":"2023-5-16"
+    },
+    {
+        "head":"http://10.218.39.118:3000/public/images/head/3.jpg",
+        "nick":"哈鱼帽子",
+        "article":"好看又好玩的现代诗 ",
+        "imgs":["http://10.218.39.118:3000/public/images/discover/poem.jpg",
+        "http://10.218.39.118:3000/public/images/discover/poem2.jpg",
+        "http://10.218.39.118:3000/public/images/discover/poem3.jpg"],
+        "time":"2023-5-16"
+    },
+    {
+        "head":"http://10.218.39.118:3000/public/images/head/4.jpg",
+        "nick":"张凡",
+        "article":"记录一些日常",
+        "imgs":["http://10.218.39.118:3000/public/images/discover/peo.jpg"],
+        "time":"2023-5-16"
+    }
+]
